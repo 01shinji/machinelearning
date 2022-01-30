@@ -1,0 +1,19 @@
+{
+	// flag indicating if the user wants to initialize a difference
+	// point
+	"diff_flag": true,
+
+	// minimum vehicle contour area
+	"min_area": 350,
+
+	// centroid tracker arguments
+	"max_disappeared": 10,
+	"max_distance": 120,
+
+	// offset used to draw the counting line
+	"x_offset": 0,
+	"y_offset": 150,
+
+	// limit used to avoid vehicles that are too far away
+	"limit": 130
+}
